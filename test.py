@@ -6,4 +6,4 @@ def foo(s):
 def main():
     foo('0')
 
-main()
+main()testaa
